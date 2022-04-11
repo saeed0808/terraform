@@ -1,3 +1,6 @@
+### url get help to write code form official repo
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/autoscaling_group#mixed_instances_policy
+
 ## What is Terraform?
 
 > Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. it is developed by Hashicorp & written in GoLang
